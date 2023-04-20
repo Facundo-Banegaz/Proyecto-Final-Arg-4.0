@@ -1,0 +1,89 @@
+{
+  "recetas": [
+    {
+      "nombre": "Ravioles con salsa de hongos",
+      "titulo": "Suave salsa de hongos para acompañar ravioles en cualquiera de sus variedades, panzottis, sorrentinos, ñoquis o fideos",
+      "tiempo": "45 minutos",
+      "img":"https://elhornodelucas.com/wp-content/uploads/2010/08/ravioles-con-salsa-de-hongos.jpg",
+      "porcion": "2 platos",
+      "ingredientes":[
+        " 100 gramo/s de Hongos secos",
+        "150 gramo/s de Champiñones",
+        "50 gramo/s de Gírgolas frescas",
+        "1 unidad/es de Diente de Ajo picado",
+        "4 cucharada/s de Aceite de Oliva",
+        "lata/s de Tomates",
+        "1 pocillo/s de Salsa demiglace comprada (o de caldo de carne bien concentrado)",
+        "2 pocillo/s de Crema de leche",
+        "1 ramo/s de Albahaca picada",
+        "50 gramo/s de Manteca",
+        "Cantidad a gusto de Sal y Pimienta",
+        "4 caja/s de Ravioles de ricota",
+        "1 taza/s de Perejil picado"
+      ],
+      "preparacion":[
+        "- Remojar los hongos secos en agua tibia una hora. Colar y cortar en tiritas, junto con los champiñones y gírgolas",
+        "- Rehogar el ajo en 2 cucharadas de aceite. Agregar los hongos y cocinarlos 20 minutos, al mínimo. Añadir el tomate picado, la demiglase o el caldo y la crema, y cocinar 10 minutos más. Incorporar la albahaca picada, la manteca en trocitos, sal y pimienta, mezclar y retirar",
+        "- Cocinar los ravioles en abundante agua hirviendo salada, con el aceite restante. Cuando suban a la superficie, colarlos y servirlos con la salsa y perejil picadito."
+      ],
+      "link":"https://youtu.be/rSXk0hBB0_0"
+    },
+    {
+      "nombre": "Ñoquis de Verdura",
+      "titulo": "Se puede usar ñoquis de papa o de papa y espinaca Pasta ",
+      "tiempo": "30 minutos",
+      "img": "https://pastafaggioli.com.ar/fotosrecetas/42_original.jpg",
+      "porcion": "2 platos",
+      "ingredientes":[
+        "1 kg papas",
+        "1 taza y 1/4 (350 grs) de harina 0000",
+        "1 huevo grande o 2 huevos chicos",
+        "Sal y pimienta a gusto",
+        "Nuez moscada a gusto",
+        " 100 gramo/s de Queso para rallar ",
+        "600 g de espinacas ",
+        "80 g de mantequilla",
+        "1 unidad/es de Diente de Ajo picado",
+        "4 cucharada/s de Aceite de Oliva",
+        "lata/s de Tomates",
+        "2 pocillo/s de Crema de leche",
+        "1 ramo/s de Albahaca picada"
+      ],
+      "preparacion":[
+        "- Para la salsa, pelar la cebolla, picarla y freírla en una cacerola con 50 gramos de manteca, el aceite y el diente de ajo (entero), hasta que el ajo comience a dorarse (apenas). Sumar la crema, el jamón, salar (poco) y cocinar unos minutos, hasta que la salsa se reduzca, a fuego moderado. Descartar el ajo. Cortar los hongos en láminas. Bajar el fuego, agregar los hongos y cocinar 10 minutos. Salpimentar",
+        "- Para los ñoquis, cocinar la espinaca (con muy poca agua y sal) un minuto. Escurrirla y picarla muy finito. Cocinar las papas con la piel 15 a 20 minutos o hasta que estén tiernas, Escurrirlas, pelarlas y pisarlas, calientes, con el pisapuré o tenedor. Colocar la harina sobre la mesada. Sumar el puré caliente, la espinaca, sal, el huevo y nuez moscada, y tomar la masa con las manos hasta que todo esté bien unido y homogéneo.Dividir la masa en porciones del tamaño de una mandarina. Después, formar un cilindro del grosor de un dedo y cortarlo en porciones de 2 centímetros. Si quiere, pasar los ñoquis por un tenedor o una palita ",
+        "Cocinar los ñoquis en una cacerola muy grande, en abundante agua hirviendo salada, a fuego fuerte, hasta que los ñoquis suban a la superficie. Escurrirlos enseguida.Colocar los ñoquis verdes en una fuente caliente y condimentarlos con la salsa de hongos. Esparcir por encima el queso rallado y la manteca restante, cortada en trocitos. Servir enseguida."
+      ],
+      "link": "https://youtu.be/15jmxQWRVmw"
+    },
+    {
+      "nombre": " Tallarines caseros al huevo",
+      "titulo": "Salsa para acompañar fideos tallarines (al huevo o con espinaca) o cinta ancha o pasta rellena.",
+      "tiempo": "30 minutos",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.yMXs66z0iNpvDUemmGZn6wHaFS&pid=Api&P=0",
+      "porcion": "2 platos",
+      "ingredientes":[
+        "4 huevos",
+        "1 taza y 1/4 (350 grs) de harina 0000",
+        "1 huevo grande o 2 huevos chicos",
+        "Sal y pimienta a gusto",
+        "Nuez moscada a gusto",
+        " 100 gramo/s de Queso para rallar ",
+        "600 g de espinacas ",
+        "200 mililitros de nata líquida",
+        "1 unidad/es de Diente de Ajo picado",
+        "4 cucharada/s de Aceite de Oliva",
+        "lata/s de Tomates",
+        "1 cebolla y espinacas",
+        "1 ramo/s de Albahaca picada"
+      ],
+      "preparacion":[
+        "Sobre la mesada realizar una corona con la harina. En el centro, incorporar 4 huevos enteros y 4 cucharadas soperas de agua. Incorporar y comenzar a amasar. Formar una masa lisa y homogénea. Dejar descansar tapada a temperatura ambiente.",
+        "Estirar con máquina de pasta o palote de 1 a 2 milímetros de espesor y cortar con la máquina o a cuchillo. Dejar orear la pasta. Después, Cocinar en abundante agua hirviendo con sal.",
+        "Salsa: calentar aceite de oliva en una sartén con ajo en láminas y ají peperoncino . Antes que el ajo se queme agregar brócolis cocidos , luego la pasta y cocinar un minuto más."
+      ],
+      "link": "https://youtu.be/RcxLqHLf6WA"
+    }
+  ]
+  
+}
